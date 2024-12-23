@@ -78,13 +78,3 @@ SMOTE (Synthetic Minority Oversampling Technique) was applied to address class i
 
 ---
 
-## Instructions
-1. Clone the repository and install the required dependencies.
-2. Run the Python script `heart_disease_classification.py` to preprocess the data, train models, and evaluate results.
-3. Visualizations and outputs will be saved in the `outputs` folder.
-
----
-
-## Author
-- **Name**: [Your Name]
-- **Email**: [Your Email]
